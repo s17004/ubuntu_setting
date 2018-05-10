@@ -1,0 +1,6 @@
+端末でjava8のダウンロードのやり方
+  sudo -E add-apt-repository ppa:webupd8team/java
+  sudo apt install oracle-java8-installer
+  でjavaのダウンロードは完了！！
+  java -version
+  一応バージョンの確認しよ！！
