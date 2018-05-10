@@ -1,0 +1,4 @@
+ubuntu 端末の表示変更
+  ディレクトリの日本語表記から英語表記への変更
+    　$ LANG=C xdg-user-dirs-gtk-update 
+      Update Namesをクリックでディレクトリが日本語表記から英語に変わる
